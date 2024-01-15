@@ -1,0 +1,6 @@
+{"Name":"chevrolet camaro", "Miles_per_Gallon":27, "Cylinders":4, "Displacement":151, "Horsepower":90, "Weight_in_lbs":2950, "Acceleration":17.3, "Year":"1982-01-01", "Origin":"USA"}
+{"Name":"ford mustang gl", "Miles_per_Gallon":27, "Cylinders":4, "Displacement":140, "Horsepower":86, "Weight_in_lbs":2790, "Acceleration":15.6, "Year":"1982-01-01", "Origin":"USA"}
+{"Name":"vw pickup", "Miles_per_Gallon":44, "Cylinders":4, "Displacement":97, "Horsepower":52, "Weight_in_lbs":2130, "Acceleration":24.6, "Year":"1982-01-01", "Origin":"Europe"}
+{"Name":"dodge rampage", "Miles_per_Gallon":32, "Cylinders":4, "Displacement":135, "Horsepower":84, "Weight_in_lbs":2295, "Acceleration":11.6, "Year":"1982-01-01", "Origin":"USA"}
+{"Name":"ford ranger", "Miles_per_Gallon":28, "Cylinders":4, "Displacement":120, "Horsepower":79, "Weight_in_lbs":2625, "Acceleration":18.6, "Year":"1982-01-01", "Origin":"USA"}
+{"Name":"chevy s-10", "Miles_per_Gallon":31, "Cylinders":4, "Displacement":119, "Horsepower":82, "Weight_in_lbs":2720, "Acceleration":19.4, "Year":"1982-01-01", "Origin":"USA"}
